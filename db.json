@@ -19,6 +19,22 @@
         "content-type": "application/json;charset=utf-8"
     }
   ],
+  "login": [
+        {
+          "requestId": "XNKwkaEtHmAuwopjbUnKOgAAAA4",
+          "status": "OK",
+          "response": 
+              {
+                  "type": "logged_in",
+                  "customerFirstName": "swapnil",
+                  "customerId": "68841A6712014310A36E9F8BA353D024",
+                  "accounts": [],
+                  "activeAccounts": [],
+                  "connectionId":
+                  "MTlkYTg4YWQtMzg3Ni00M2ZkLTk3ZmYtYTUyMWMzMTkxMzM1fDE1NTczMTE0NzcwNzY="
+              }
+        }
+  ],
   "profile": {
     "name": "typicode"
   }
