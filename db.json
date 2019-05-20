@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "connectionId":[
+  "connectionId": [
     {
         "date": "Tue, 07 May 2019 17:49:46 GMT",
         "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
@@ -17,7 +17,7 @@
         "content-length": "114",
         "vary": "Accept-Encoding",
         "content-type": "application/json;charset=utf-8"
-        },
+    },
     {
         "date": "Tue, 07 May 2019 17:49:46 GMT",
         "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
@@ -26,7 +26,7 @@
         "content-length": "114",
         "vary": "Accept-Encoding",
         "content-type": "application/json;charset=utf-8"
-        }
+    }
   ],
   "profile": {
     "name": "typicode"
