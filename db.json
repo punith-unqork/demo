@@ -17,15 +17,6 @@
         "content-length": "114",
         "vary": "Accept-Encoding",
         "content-type": "application/json;charset=utf-8"
-    },
-    {
-        "date": "Tue, 07 May 2019 17:49:46 GMT",
-        "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-        "x-connection-id":
-        "NmU4ZWQ3YmMtZTQ4OC00MWFhLWFmZTktZTJhMDIzMmI3NGFlfDE1NTcyNTEzODY3NTU=",
-        "content-length": "114",
-        "vary": "Accept-Encoding",
-        "content-type": "application/json;charset=utf-8"
     }
   ],
   "profile": {
